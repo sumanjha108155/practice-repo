@@ -151,7 +151,6 @@ font-family: sans-serif;
     background-color: white;
     height:374px;
     margin-top: 3vh;
-    position: relative;
     float: left;
     box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
 
@@ -344,7 +343,7 @@ margin-left: 3rem;
         
     }
     .next-item-arrow {
-        display: none;
+        margin-left: 4rem;
     }
     .container-1-top{
         width: 100%;
@@ -359,3 +358,4 @@ margin-left: 3rem;
         flex-wrap: nowrap;
     }
 }
+
